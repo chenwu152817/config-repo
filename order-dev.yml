@@ -13,4 +13,4 @@ eureka:
 server:
   port: 8081
 test:
-  env: woshigeshadiao
+  env: test4
